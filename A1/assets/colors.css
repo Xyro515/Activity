@@ -1,0 +1,72 @@
+body {
+  color: #090808;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+.container {
+  margin: 50px 20%;
+  padding: 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: antiquewhite;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.center {
+  text-align: center;
+  font-weight: bold;
+}
+
+.name {
+  text-align: center;
+  color: #eb1093;
+}
+
+.BIOT {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.hobby {
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 5px 10px;
+  font-size: 15px;
+  border: 1px solid #000;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.btn-facebook {
+  background-color: #1877f2;
+  color: #fff;
+}
+
+.btn-facebook:hover {
+  background-color: #0d5fc7;
+}
+
+.btn-instagram {
+  background-color: #e1306c;
+  color: #fff;
+}
+
+.btn-instagram:hover {
+  background-color: #c8235c;
+}
+
+.btn-youtube {
+  background-color: #ff0000;
+  color: #fff;
+}
+
+.btn-youtube:hover {
+  background-color: #cc0000;
+}
