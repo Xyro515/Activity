@@ -1,0 +1,60 @@
+body {
+  background-color: #eeeeee;
+  font-family: Arial, sans-serif;
+}
+
+.form-container {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid gray;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+input {
+  max-width: 900px;
+  height: 40px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+p {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+
+button {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  background-color: darkblue;
+  border: none;
+}
+.copyright {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: rgb(0, 0, 0);
+
+}
